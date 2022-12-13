@@ -1,0 +1,10 @@
+.auth-page {
+    height: 100vh;
+    background-image: url("./../assets/Rectangle 43cappadocia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.auth-form__subtitle {
+    color: rgb(180, 184, 183);
+}
