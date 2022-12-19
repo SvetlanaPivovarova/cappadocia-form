@@ -9,6 +9,7 @@ import {Register} from "./register/register";
 function App() {
   return (
     <div className="App">
+        <AuthPage />
       <Register />
     </div>
   );
